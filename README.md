@@ -142,7 +142,7 @@ These metrics can be useful, but MAE is the clearest and most relevant for this 
 
 ## 7. How to Run the Project
 
-1. Place datasets inside `assignment/AT1/data/`  
+1. Place datasets inside `36106/assignment/AT1/data/`  
 2. Open notebooks in this order:  
    - EDA  
    - Preparation  
