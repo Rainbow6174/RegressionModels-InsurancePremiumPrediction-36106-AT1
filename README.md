@@ -25,9 +25,9 @@ The project focuses on:
 
 ## 2. File Structure
 
-36106-AT1-25948860/  
+/  
 │  
-├── assignment/AT1/data/ # Provided datasets  
+├── 36106/assignment/AT1/data/ # Provided datasets  
 │  
 ├── 36106-AT1-25948860-a-EDA.ipynb # Exploratory Data Analysis  
 ├── 36106-AT1-25948860-b-Preparation.ipynb # Data Preparation  
