@@ -1,4 +1,4 @@
-# Motor Vehicle Insurance Premium Prediction
+# Motor Vehicle Insurance Premium Prediction (36106 AT1)
 
 This project builds several regression models to predict motor vehicle insurance premiums. It includes exploratory data analysis, data preparation, a baseline model, and three experiments (Ridge, Lasso, and KNN regression). The goal is to support pricing and risk teams with a model that is accurate, stable, and easy to explain.
 
@@ -25,6 +25,7 @@ The project aims to:
 
 ## 2. File Structure
 
+```text
 /  
 │  
 ├── 36106/assignment/AT1/data/ # Provided datasets  
@@ -38,6 +39,7 @@ The project aims to:
 ├── 36106-AT1-25948860-3-experiment-3.ipynb # KNN Regression  
 │  
 └── 36106-AT1-25948860-z-project_report.docx # Final report  
+```
 
 ---
 
